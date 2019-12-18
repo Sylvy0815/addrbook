@@ -95,5 +95,5 @@ This theme was partially designed with the inspiration from these fine folks
 - [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
 - [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
 
-# 3. 주소록, 게시판 만들기
+## 3. 주소록, 게시판 만들기
 본 페이지에 올라와있는 파일들을 그대로 붙여넣고, CLASSPATH 설정만 하면 됩니다.
