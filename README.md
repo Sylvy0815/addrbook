@@ -20,7 +20,7 @@ GCP에서 여러 기능들을 지원하지만, 이 프로젝트에선 JSP를 호
 ## 2. github.io 개인 블로그 만들기
 https://github.com/Sylvy0815/Sylvy0815.github.io 의 README.md 참고
 
-# Particle Jekyll Theme
+## Particle Jekyll Theme
 
 ![](./particle.jpg)
 
@@ -37,14 +37,14 @@ The Theme features:
 - Google Analytics
 - Info Customization
 
-## Basic Setup
+### Basic Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
 2. Fork the [Particle Theme](https://github.com/nrandecker/particle/fork)
 3. Clone the repo you just forked.
 4. Edit `_config.yml` to personalize your site.
 
-## Site and User Settings
+### Site and User Settings
 
 You have to fill some informations on `_config.yml` to customize your site.
 
@@ -66,14 +66,14 @@ gplus_username:  lorem_ipsum
 
 **Don't forget to change your url before you deploy your site!**
 
-## Color and Particle Customization
+### Color and Particle Customization
 - Color Customization
   - Edit the sass variables
 - Particle Customization
   - Edit the json data in particle function in app.js
   - Refer to [Particle.js](https://github.com/VincentGarreau/particles.js/) for help
 
-## Running the blog in local
+### Running the blog in local
 
 In order to compile the assets and run Jekyll on local you need to follow those steps:
 
@@ -81,15 +81,15 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run `npm install`
 - Run `gulp`
 
-## Questions
+### Questions
 
 Having any issues file a [GitHub Issue](https://github.com/nrandecker/particle/issues/new).
 
-## License
+### License
 
 This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
 
-## Credits
+### Credits
 
 This theme was partially designed with the inspiration from these fine folks
 - [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
